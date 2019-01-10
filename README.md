@@ -3,4 +3,6 @@
 
 -- 那个是bootstrapTable的插件！不支持！改不了！！
 
-https://www.cnblogs.com/lggggg/p/10246102.html
+博客园文章： https://www.cnblogs.com/lggggg/p/10246102.html
+
+demo地址： https://lvgao2012.github.io/bootstrap-table/
